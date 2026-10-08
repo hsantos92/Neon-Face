@@ -1,0 +1,11 @@
+node_modules
+*.log
+.env
+.env.*
+!.env.example
+*.blend1
+*.blend2
+/smoke*.png
+core
+core.*
+.DS_Store
